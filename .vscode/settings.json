@@ -1,0 +1,7 @@
+{
+  "git-auto-commit.enable": true,
+"git-auto-commit.commitMessage": "Auto commit at $(date)",
+"git-auto-commit.push": true,
+"git-auto-commit.commitInterval": 5
+
+}
