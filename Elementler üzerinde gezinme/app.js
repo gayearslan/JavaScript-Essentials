@@ -29,7 +29,9 @@ let value;
 // })
 
 
-value = todo;
-value = todo.parentElement.parentElement;
+// value = todo;
+// value = todo.parentElement.parentElement;
+
+
 
 console.log(value);
